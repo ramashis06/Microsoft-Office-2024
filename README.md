@@ -1,10 +1,32 @@
-# Office LTSC Professional Plus 2024 (Volume License)
+# Microsoft Office LTSC Professional Plus 2024 (Volume License)
 
-This repository provides step-by-step guidance and sample files for installing  
-**Microsoft Office LTSC 2024 (Long Term Servicing Channel)** using the official  
-**Office Deployment Tool (ODT)** from Microsoft.
+![Office LTSC 2024](https://img.shields.io/badge/Microsoft-Office%20LTSC%202024-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)
+![License](https://img.shields.io/badge/License-Volume%20(KMS%20%2F%20MAK)-green)
+
+## 📌 Overview
+
+This repository provides a **complete, step-by-step guide** for installing  
+**Microsoft Office LTSC 2024 (Professional Plus / Standard)** using the official  
+**Microsoft Office Deployment Tool (ODT)**.
+
+This project is suitable for:
+- System Administrators
+- IT Support Engineers
+- Network Operations (NOC)
+- Software Quality Assurance (SQA) Engineers
+- Enterprise & Lab Environments
 
 ---
+
+## 🔍 GitHub SEO Keywords
+
+`Office LTSC 2024`, `Office Deployment Tool`, `ODT install Office`,  
+`Office LTSC Professional Plus 2024`, `Volume License Office`,  
+`KMS MAK Office activation`, `Offline Office Installation`
+
+---
+
 
 ## 📌 Requirements
 
@@ -121,3 +143,14 @@ If silent mode is enabled, no user interaction is required
 - Ensure you activate Office using a valid LTSC 2024 volume license key
 - You can reuse downloaded files for offline installation
 - This method is suitable for enterprise and lab environments
+
+
+
+
+
+
+
+
+
+
+
